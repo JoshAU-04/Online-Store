@@ -1,22 +1,19 @@
-# sv
+# Online Store Website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This is an imaginary online store website that isn't really that fleshed out.
+Just a few components here and there but I was experimenting with bootstrap and
+svelte and so I got a bit carried away with things.
 
-## Creating a project
+## Assets
 
-If you're seeing this, you've probably already done this step. Congrats!
+The assets (images) are just sourced from Nike, but by no means is this
+affiliated or corresponding with Nike, nor are any of these items being
+advertised or sold by me. I repeat, **you can't actually buy anything.**.
 
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+If you want to play around with the website you can start up a development environment.
 
 ```bash
 npm run dev
@@ -27,7 +24,7 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+To create a production version of the website:
 
 ```bash
 npm run build

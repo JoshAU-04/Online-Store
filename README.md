@@ -1,7 +1,7 @@
 # Online Store Website
 
 
-![https://github.com/JoshAU-04/Online-Store/blob/main/static/preview.png?raw=true](preview)
+![Image preview](https://github.com/JoshAU-04/Online-Store/blob/main/static/preview.png?raw=true)
 
 ## About
 
